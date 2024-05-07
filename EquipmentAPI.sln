@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EquipmentAPI", "EquipmentAPI.csproj", "{FB5839BD-D42A-4E46-8D89-880CCE7E4E76}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EquipmentAPITests", "..\EquipmentAPITests\EquipmentAPITests.csproj", "{E18695AA-5BCE-42C7-AC56-27AF8C4628D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EquipmentAPITests", "EquipmentAPITests\EquipmentAPITests.csproj", "{E18695AA-5BCE-42C7-AC56-27AF8C4628D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
